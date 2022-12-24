@@ -1,0 +1,103 @@
+* {
+	background-color: black;
+	/* margin: 0;
+	padding: 0;
+	box-sizing: border-box; */
+	
+}
+.navbar {
+	border-bottom: 2px solid snow;
+	overflow: hidden;
+	margin: 0;
+	
+}
+
+ .navbar {
+	position: absolute;
+	margin-top: -2;
+	margin-left: 0;
+	border-bottom: 2px solid snow;
+	 margin: 0; 
+	 padding: 0;
+	width: 100%;
+	
+ }
+ 
+/* .navbar-collapse{
+	/* margin: 0 ,0 ,10px ,700px */
+	
+	
+.profilename{
+font-size: 5px;
+}
+
+.registration-form{
+	width: 70vw;
+	margin: 10px auto;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	top: 50%;
+	left: 50%;
+	padding: 10px 10px 30px ;
+	background-color: black;
+	
+}
+.valid-feedback, .invalid-feedback {
+	font-size: larger;
+	/* display: block; */
+}
+.profile{
+	width: 70vw;
+	margin: 10px 30px;
+	position: absolute;
+	top: 20%;
+	left: 10%;
+	/* top: 90%; */
+}
+.heading{
+	display: flex;
+	align-items: center;
+margin-top: 20px;
+color: white;
+}
+
+.sign-up-title, .profile-title {
+	text-align: left;
+	font-weight: 500;
+		color: white;
+}
+.form-control{
+border-radius: 0%;
+width: 700px;
+font-size: x-large;
+	background-color: black;
+	color: antiquewhite;
+	border: 0;
+	border-bottom: 2px solid whitesmoke;
+	margin-left: 0;
+}
+
+.singup-bu, .logout-bu{
+	border-radius: 0%;
+	font-weight: 500;
+	width: 140px;
+	height: 40px;
+	margin-top: 10px;
+}
+.navbar-nav{
+	margin-left: 1100px;
+	text-align: right;
+
+}
+/* */
+
+
+/* .jumbotron {
+	text-align: center;
+}
+
+.header-name{
+	color: white;
+}
+
+
